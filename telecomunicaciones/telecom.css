@@ -1,0 +1,55 @@
+header {
+    background-image: url(telecom.jpg);
+    color: brown;
+    padding: 20px 0;
+    text-align: center;
+    font-family: algerian;
+    background-size:auto;
+    background-position: center;
+}
+body {
+    background-image: url("telecomu.png");
+    background-position: center;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h5{
+    color: yellow;
+}
+h3{
+    font-size: 50px;
+}
+p{
+    color: white;
+}
+thead{
+    color: white;
+}
+th{
+    color: turquoise;
+}
+td{
+    color: turquoise;
+}
+h4{
+    color: white;
+}
+.dere{
+    color: white;
+}
+.teleco{
+    background-image: url(telec.jpg);
+    width: 1200px;
+    height: 600px;
+    background-size: cover;
+}
+.telec{
+    background-image: url(tetecomu.jpg);
+    width: 1200px;
+    height: 600px;
+    background-size: cover;
+}

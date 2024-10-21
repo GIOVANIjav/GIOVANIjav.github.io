@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-image: url(fond.jfif);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    font-family: algerian;
+    background-size:auto;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    color: white;  
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+    color: black;  
+}
+main {
+    padding: 20px;
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #f1f1f1;
+}
+H2{
+    color: white;  
+}
+p{
+    color: white;  
+}
+a{
+    color: white;    
+}
+h1{
+    font-size: 50px;
+}
